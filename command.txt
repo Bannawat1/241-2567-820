@@ -1,0 +1,20 @@
+docker -v // เช็คเวอร์ชัน
+docker ps // List all running containers
+docker ps --all
+docker run hello-world // Run a container
+docker rm container_id // Remove a container
+docker run 80:80 //                        
+docker run -p 80:80 nginx
+docker stop container_id
+docker exec -it 
+
+
+
+
+
+
+
+cd // change directory
+cd ..  // Go back  to the previous directory
+cd/etc/nginx // Go to the nginx directory
+cat file_name // Display the content of a file
